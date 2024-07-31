@@ -1,0 +1,14 @@
+[www.cheatslips.com]
+[credits: Maq47]
+
+[Run Speed x2.25]
+04000000 00100F3C BD4C0100
+
+[Infinite HP Slot 1 HM]
+02100000 0EDA8BBC 0000270F
+
+[Infinite HP Slot 2 HM]
+02100000 0EDA8DFC 0000270F
+
+[Infinite HP Slot 3 HM]
+02100000 0EDAA07C 0000270F
