@@ -1,6 +1,3 @@
-[www.cheatslips.com]
-[credits: Maq47]
-
 [Run Speed x2.25]
 04000000 00100F3C BD4C0100
 
