@@ -1,9 +1,4 @@
 [Mega Man Star Force Legacy Collection v1.0.2]
 [Cheats by Maq47/M1CR0H4CK3R]
 
-[--SectionStart:Star Force 1 Codes--]
-
-[Pick Card Not Decrease (Card Trader)]
-04000000 02175BE4 91000108
-
-[--SectionEnd:Star Force 1 Codes--]
+-Redacted due to bug-
