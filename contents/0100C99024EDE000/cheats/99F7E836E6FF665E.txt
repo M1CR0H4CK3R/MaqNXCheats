@@ -1,0 +1,11 @@
+[Mega Man Star Force Legacy Collection v1.0.2]
+[Credit: Maq47]
+
+[--SectionStart:Star Force 1 Codes--]
+
+[Limit 240 for each card]
+04000000 02171FCC 7103C17F
+04000000 02171FD4 7103C57F
+04000000 02171FD8 52801E0B
+
+[--SectionEnd:Star Force 1 Codes--]
