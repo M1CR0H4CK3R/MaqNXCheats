@@ -55,7 +55,7 @@
 [--Note:Be careful when using these codes. Softlocs can happen!!!--]
 
 
-[(zL) Walk Through Walls]
+[(zR) Walk Through Walls]
 04000000 05524B5C 94000415
 04000000 05524BE8 940000F1 
 04000000 04D12084 94204ECB
