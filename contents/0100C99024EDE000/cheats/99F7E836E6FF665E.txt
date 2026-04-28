@@ -20,40 +20,17 @@
 04000000 0E012BD4 D283E814
 04000000 0E012BD8 16EFA1ED
 
-[--SectionEnd:Star Force 1 Codes--]
+[--Note: For the next code, change '00000178' to your desired card ID --]
+
+[--Note: Card IDs can be found at https://pastebin.com/TPZn9ecp --]
+
+[Card After Battle Modifier]
+58050000 0DA704E0
+58051000 000002A8
+40060000 00000000 000000D0
+62050160 00000000 00000178
 
 [--SectionStart:All Games Codes--]
-
-[(zL) Walk Through Walls]
-04000000 05524B5C 94000415
-[Mega Man Star Force Legacy Collection v1.0.2]
-[Credit: Maq47]
-
-[--SectionStart:Star Force 1 Codes--]
-
-[Limit 240 for each card]
-04000000 02171FCC 7103C17F
-04000000 02171FD4 7103C57F
-04000000 02171FD8 52801E0B
-
-[--SectionEnd:Star Force 1 Codes--]
-
-[--SectionStart:Star Force 2 Codes--]
-
-[Link Power 8000 On Change]
-04000000 02E11730 15B7A716
-04000000 09BFB388 15105E12
-04000000 09BFB38C 164858EA
-04000000 0E012BD0 F9401408
-04000000 0E012BD4 D283E814
-04000000 0E012BD8 16EFA1ED
-
-[--SectionEnd:Star Force 1 Codes--]
-
-[--SectionStart:All Games Codes--]
-
-[--Note:Be careful when using these codes. Softlocs can happen!!!--]
-
 
 [(zR) Walk Through Walls]
 04000000 05524B5C 94000415
