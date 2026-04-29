@@ -3,14 +3,21 @@
 
 [--SectionStart:Star Force 1 Codes--]
 
-[Limit 240 for each card]
+[Limit 240 for each card (SF1)]
 04000000 02171FCC 7103C17F
 04000000 02171FD4 7103C57F
 04000000 02171FD8 52801E0B
 
+[Free Card Traders (SF1)]
+04000000 02172C44 4B1F0003
+
 [--SectionEnd:Star Force 1 Codes--]
 
 [--SectionStart:Star Force 2 Codes--]
+
+[Free Card Traders (SF2)]
+04000000 00F00F10 8B1F0D08
+04000000 00F00D2C 8B1F0D08
 
 [Link Power 8000 On Change]
 04000000 02E11730 15B7A716
