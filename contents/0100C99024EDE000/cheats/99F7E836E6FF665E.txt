@@ -15,6 +15,9 @@
 
 [--SectionStart:Star Force 2 Codes--]
 
+[OHKO (Bosses Only) (SF2)]
+04000000 0474C61C 7901EA9F
+
 [Link Power 8000 On Change]
 04000000 02E11730 15B7A716
 04000000 09BFB388 15105E12
